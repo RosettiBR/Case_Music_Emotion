@@ -1,0 +1,10 @@
+Por conta do tamanho dos datasets, os mesmo foram postados em outra plataforma. Segue o link abaixo:
+
+https://drive.google.com/drive/folders/1XtGz3FQRtHGiTEUoKGHyPsJPX6ndKqIO?usp=sharing
+
+
+"spotify_dataset.csv" - dataset inicial de trabalho
+
+"df_final_para_modeling.paquet" - ETL e pré-processamento finalizado, pronto para modelagem, treino e avaliação
+
+"final_milliondataset_BERT_500K_revised.json" - Dataset revisado, porém com mais dados sem nenhum trabalho
