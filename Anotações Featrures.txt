@@ -1,0 +1,12 @@
+Feature 1 features = ['Tempo_bpm', 'Energy', 'Danceability', 'Positiveness', 'Speechiness', 
+            'Liveness', 'Acousticness', 'Instrumentalness', 'Good for Party', 
+            'Good for Work/Study', 'Good for Relaxation/Meditation', 'Good for Exercise', 
+            'Good for Running', 'Good for Driving', 'Good for Social Gatherings', 
+            'Good for Morning Routine']
+
+            Resultados do Random Forest:
+Scores em cada um dos 5 'folds': [0.65428892 0.65707153 0.65644263 0.65541015 0.65474159]
+Média do F1-Score: 0.6556
+Desvio Padrão do F1-Score: 0.0010
+
+
